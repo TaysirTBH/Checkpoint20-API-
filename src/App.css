@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.App-header{
+  align-items: center;
+  height: 100px;
+}
+.App-header h1 {
+  padding: 28px ;
+  text-align: center;
+  color: #2b858b;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.top{
+  width: 100%;
+  height: 0.7rem;
+  background: linear-gradient(130deg, #06053d,#af002d 41.07%,#319197 76.05%);
+}
+
+h5{
+  color: #770737 ;
+}
